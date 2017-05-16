@@ -55,6 +55,8 @@
 #gamma 衰退值 wieght眼光在未來的獎勵或最近的獎勵 (0,1)
 #Q(s,a) := Q(s,a)+alpha[R+gamma max_a' Q(s',a')-Q(s,a)]
 
-##
+
+
+##5
 
 
